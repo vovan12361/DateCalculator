@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Date Calculator</string>
+    <string name="set_today_as_start_date">Set Today as Start Date</string>
+    <string name="calculate_difference">Calculate Difference</string>
+    <string name="days_to_add_subtract">Days to add/subtract</string>
+    <string name="weeks_to_add_subtract">Weeks to add/subtract</string>
+    <string name="months_to_add_subtract">Months to add/subtract</string>
+    <string name="years_to_add_subtract">Years to add/subtract</string>
+    <string name="modify_date">Modify Date</string>
+    <string name="result_date">Result date</string>
+    <string name="your_start_date_modified_date">Your start date: %1$s\nModified date: %2$s</string>
+    <string name="your_start_date_modified_date_n_a">Your start date: %1$s\nModified date: N/A</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="timeInterval">Choose time interval</string>
+    <string name="date_difference">Date Difference</string>
+    <string name="days_weeks_months_years">Days: %1$s\nWeeks: %2$s\nMonths: %3$s\nYears: %4$s</string>
+</resources>

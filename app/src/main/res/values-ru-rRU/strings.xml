@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Калькулятор дат</string>
+    <string name="set_today_as_start_date">Установить сегодня как начальную дату</string>
+    <string name="calculate_difference">Высчитать интервал</string>
+    <string name="days_to_add_subtract">Дней для изменения</string>
+    <string name="weeks_to_add_subtract">Недель для изменения</string>
+    <string name="months_to_add_subtract">Месяцев для изменения</string>
+    <string name="years_to_add_subtract">Лет для изменения</string>
+    <string name="modify_date">Модифицировать дату</string>
+    <string name="result_date">Результат даты</string>
+    <string name="your_start_date_modified_date">Ваша стартовая дата: %1$s\nМодифицированная дата: %2$s</string>
+    <string name="your_start_date_modified_date_n_a">Ваша стартовая дата: %1$s\nМодифицированная дата: N/A</string>
+    <string name="timeInterval">Выберите промежуток времени</string>
+    <string name="date_difference">Разница дат</string>
+    <string name="days_weeks_months_years">Дней: %1$s\nНедель: %2$s\nМесяцев: %3$s\nЛет: %4$s</string>
+</resources>
